@@ -14,10 +14,11 @@
     <a href="#contact">📞 Contact</a>
   </p>
 
-  [![React](https://img.shields.io/badge/React-19.0.0-blue.svg)](https://reactjs.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.17-blue.svg)](https://tailwindcss.com/)
-  [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-12.7.4-purple.svg)](https://www.framer.com/motion/)
-  [![Vite](https://img.shields.io/badge/Vite-6.3.1-yellow.svg)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/React-19.0.0-blue.svg)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.17-blue.svg)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-12.7.4-purple.svg)](https://www.framer.com/motion/)
+[![Vite](https://img.shields.io/badge/Vite-6.3.1-yellow.svg)](https://vitejs.dev/)
+
 </div>
 
 ## 📋 Table of Contents
@@ -49,6 +50,7 @@
 ## ✨ Features
 
 ### 🎨 Design & UX
+
 - **Modern Dark Theme** with professional purple accent colors
 - **Smooth Animations** powered by Framer Motion
 - **Responsive Design** that looks great on all devices
@@ -56,6 +58,7 @@
 - **Interactive Components** with hover effects and transitions
 
 ### 🛠 Technical Features
+
 - **Single Page Application (SPA)** with React Router
 - **Component-Based Architecture** for maintainability
 - **Lazy Loading** and performance optimizations
@@ -64,6 +67,7 @@
 - **Custom Loading Screen** with branded loader
 
 ### 📄 Pages & Sections
+
 - **Hero Carousel** with compelling messaging
 - **Services Showcase** with detailed service cards
 - **Pricing Tiers** with transparent pricing structure
@@ -73,6 +77,7 @@
 - **Legal Pages** (Privacy Policy, Terms of Service)
 
 ### 🎯 Business Features
+
 - **Lead Generation** focused design
 - **Book a Call** CTAs integrated with Cal.com
 - **Service Portfolio** showcasing 10+ marketing services
@@ -82,28 +87,33 @@
 ## 🛠 Tech Stack
 
 ### Frontend
+
 - **React 19.0.0** - Latest React with modern features
 - **Vite 6.3.1** - Next-generation frontend tooling
 - **React Router 7.5.1** - Client-side routing
 - **Tailwind CSS 3.4.17** - Utility-first CSS framework
 
 ### Animations & UI
+
 - **Framer Motion 12.7.4** - Production-ready motion library
 - **Lucide React** - Beautiful & consistent icon set
 - **Custom CSS Animations** for enhanced UX
 
 ### Development Tools
+
 - **ESLint** - Code linting and formatting
 - **PostCSS** - CSS processing
 - **Autoprefixer** - CSS vendor prefixing
 
 ### Deployment
+
 - **Vercel** - Serverless deployment platform
 - **Git** - Version control
 
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js (v16 or higher)
 - npm or yarn package manager
 - Git
@@ -111,12 +121,14 @@
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/Shubhamdas27/Mavryk.git
    cd Mavryk/frontend
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    # or
@@ -124,12 +136,14 @@
    ```
 
 3. **Set up environment variables** (if needed)
+
    ```bash
    # Create .env file and add your variables
    cp .env.example .env
    ```
 
 4. **Start development server**
+
    ```bash
    npm run dev
    # or
@@ -202,6 +216,7 @@ frontend/
 Mavryk offers comprehensive digital marketing services:
 
 ### 🔍 **SEO Optimization**
+
 - Comprehensive SEO audits
 - Keyword research and strategy
 - On-page and off-page optimization
@@ -209,6 +224,7 @@ Mavryk offers comprehensive digital marketing services:
 - Local SEO for businesses
 
 ### ✍️ **Content Creation**
+
 - Blog writing and copywriting
 - Social media content
 - Email newsletter content
@@ -216,6 +232,7 @@ Mavryk offers comprehensive digital marketing services:
 - Brand storytelling
 
 ### 👥 **Influencer Marketing**
+
 - Influencer identification and outreach
 - Campaign strategy and management
 - Content collaboration coordination
@@ -223,6 +240,7 @@ Mavryk offers comprehensive digital marketing services:
 - Relationship management
 
 ### 📱 **Mobile Marketing**
+
 - Mobile app promotion
 - SMS marketing campaigns
 - Mobile-first content strategy
@@ -230,18 +248,21 @@ Mavryk offers comprehensive digital marketing services:
 - Mobile advertising
 
 ### 📧 **Email Marketing**
+
 - Email campaign design and development
 - Automated email sequences
 - List building and segmentation
 - A/B testing and optimization
 - Analytics and reporting
 
-*And 5+ more specialized services...*
+_And 5+ more specialized services..._
 
 ## 💰 Pricing
 
 ### 🌟 Starter Plan - ₹10,000/month
+
 Perfect for small businesses
+
 - Basic SEO audit and optimization
 - 2 blog posts per month
 - Social media content (10 posts)
@@ -250,7 +271,9 @@ Perfect for small businesses
 - Email support
 
 ### 🚀 Growth Plan - ₹25,000/month
+
 Ideal for growing companies
+
 - Advanced SEO optimization
 - 4 blog posts per month
 - Social media management (20 posts)
@@ -259,7 +282,9 @@ Ideal for growing companies
 - Priority support
 
 ### 👑 Enterprise Plan - ₹50,000/month
+
 For established businesses
+
 - Complete marketing suite
 - Custom content strategy
 - Advanced analytics and reporting
@@ -267,19 +292,21 @@ For established businesses
 - Weekly strategy sessions
 - 24/7 premium support
 
-*Custom packages available based on specific requirements*
+_Custom packages available based on specific requirements_
 
 ## 🚀 Deployment
 
 ### Vercel (Recommended)
 
 1. **Connect to Vercel**
+
    ```bash
    npm install -g vercel
    vercel
    ```
 
 2. **Configure build settings**
+
    - Build Command: `npm run build`
    - Output Directory: `dist`
    - Install Command: `npm install`
@@ -290,6 +317,7 @@ For established businesses
 ### Manual Deployment
 
 1. **Build the project**
+
    ```bash
    npm run build
    ```
@@ -303,17 +331,20 @@ For established businesses
 ## 🎨 Customization
 
 ### Branding
+
 - **Logo**: Replace files in `src/assets/`
 - **Colors**: Update `tailwind.config.js`
 - **Typography**: Modify Google Fonts imports in `index.html`
 
 ### Content
+
 - **Services**: Edit `src/data/services.jsx`
 - **Testimonials**: Update `src/data/testimonials.js`
 - **Pricing**: Modify `src/components/PricingSection.jsx`
 - **Contact Info**: Update `src/pages/ContactPage.jsx` and `src/components/Footer.jsx`
 
 ### Styling
+
 - **Theme Colors**: Customize in `tailwind.config.js`
 - **Components**: Modify individual component files
 - **Global Styles**: Update `src/index.css`
@@ -338,6 +369,7 @@ We welcome contributions! Please follow these steps:
 5. **Open a Pull Request**
 
 ### Development Guidelines
+
 - Follow React best practices
 - Use Tailwind CSS for styling
 - Maintain component reusability
@@ -383,6 +415,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 ### 👨‍💼 Shubham Das
+
 **Founder & Lead Developer**
 
 - 🌐 **Website**: [mavryk.vercel.app](https://mavryk.vercel.app)
